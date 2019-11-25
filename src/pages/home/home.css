@@ -1,0 +1,76 @@
+main {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+}
+
+.section-discount {
+    background-image: url('../../img/background.jpg');
+    background-size: 100%;
+    color: white;
+    min-height: 200px;
+    display: flex;
+    justify-content: center;
+}
+
+.section-black {
+    background: black;
+    color: white;
+    min-height: 200px;
+    display: flex;
+}
+
+.section-info {
+    background-image: url('../../img/background_white.jpg');
+    background-size: 100%;
+    background-attachment: fixed;
+    color: black;
+    min-height: 200px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.section-team {
+    padding: 16px;
+    background-image: url('../../img/background.jpg');
+    background-size: 100%;
+    color: white;
+    min-height: 200px;
+    display: flex;
+    flex-direction: column;
+}
+
+.text-block {
+    margin: 20px 60px;
+    width: 400px;
+}
+
+.team-photos-container {
+    margin: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.team-photo {
+    height: 413.5px;
+    width: 340px;
+}
+
+.team-photos {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px 0;
+}
+
+#clipart {
+    margin: 80px;
+    height: 120px;
+    width: 100px;
+}
+
+
+
+
+
+
+

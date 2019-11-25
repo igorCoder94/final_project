@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e54f70a8-ec6a-497e-bcc8-c37a217e7af6" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/final_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/.idea/barber_server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/.bin/mime" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/.bin/mime.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/.bin/uuid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/.bin/uuid.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/accepts/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/accepts/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/accepts/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/accepts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/accepts/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/array-flatten/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/array-flatten/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/array-flatten/array-flatten.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/array-flatten/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/body-parser/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/body-parser/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/body-parser/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/body-parser/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/body-parser/lib/read.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/body-parser/lib/types/json.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/body-parser/lib/types/raw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/body-parser/lib/types/text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/body-parser/lib/types/urlencoded.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/body-parser/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/bytes/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/bytes/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/bytes/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/bytes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/bytes/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/content-disposition/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/content-disposition/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/content-disposition/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/content-disposition/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/content-disposition/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/content-type/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/content-type/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/content-type/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/content-type/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/content-type/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/cookie-signature/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/cookie-signature/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/cookie-signature/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/cookie-signature/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/cookie-signature/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/cookie/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/cookie/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/cookie/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/cookie/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/cookie/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/cors/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/cors/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/cors/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/cors/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/cors/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/cors/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/debug/.coveralls.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/debug/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/debug/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/debug/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/debug/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/debug/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/debug/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/debug/component.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/debug/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/debug/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/debug/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/debug/src/browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/debug/src/debug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/debug/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/debug/src/inspector-log.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/debug/src/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/depd/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/depd/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/depd/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/depd/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/depd/lib/browser/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/depd/lib/compat/callsite-tostring.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/depd/lib/compat/event-listener-count.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/depd/lib/compat/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/depd/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/destroy/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/destroy/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/destroy/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/destroy/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/double-ended-queue/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/double-ended-queue/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/double-ended-queue/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/double-ended-queue/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/double-ended-queue/js/deque.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/double-ended-queue/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/ee-first/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/ee-first/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/ee-first/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/ee-first/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/encodeurl/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/encodeurl/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/encodeurl/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/encodeurl/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/encodeurl/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/escape-html/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/escape-html/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/escape-html/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/escape-html/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/etag/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/etag/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/etag/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/etag/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/etag/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/express/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/express/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/express/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/express/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/express/lib/application.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/express/lib/express.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/express/lib/middleware/init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/express/lib/middleware/query.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/express/lib/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/express/lib/response.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/express/lib/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/express/lib/router/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/express/lib/router/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/express/lib/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/express/lib/view.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/express/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/finalhandler/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/finalhandler/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/finalhandler/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/finalhandler/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/finalhandler/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/forwarded/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/forwarded/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/forwarded/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/forwarded/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/forwarded/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/fresh/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/fresh/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/fresh/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/fresh/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/fresh/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/http-errors/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/http-errors/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/http-errors/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/http-errors/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/http-errors/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/iconv-lite/Changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/iconv-lite/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/iconv-lite/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/iconv-lite/encodings/dbcs-codec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/iconv-lite/encodings/dbcs-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/iconv-lite/encodings/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/iconv-lite/encodings/internal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/iconv-lite/encodings/sbcs-codec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/iconv-lite/encodings/sbcs-data-generated.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/iconv-lite/encodings/sbcs-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/iconv-lite/encodings/tables/big5-added.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/iconv-lite/encodings/tables/cp936.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/iconv-lite/encodings/tables/cp949.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/iconv-lite/encodings/tables/cp950.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/iconv-lite/encodings/tables/eucjp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/iconv-lite/encodings/tables/gb18030-ranges.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/iconv-lite/encodings/tables/gbk-added.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/iconv-lite/encodings/tables/shiftjis.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/iconv-lite/encodings/utf16.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/iconv-lite/encodings/utf7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/iconv-lite/lib/bom-handling.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/iconv-lite/lib/extend-node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/iconv-lite/lib/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/iconv-lite/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/iconv-lite/lib/streams.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/iconv-lite/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/inherits/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/inherits/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/inherits/inherits.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/inherits/inherits_browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/inherits/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/ipaddr.js/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/ipaddr.js/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/ipaddr.js/ipaddr.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/ipaddr.js/lib/ipaddr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/ipaddr.js/lib/ipaddr.js.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/ipaddr.js/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/media-typer/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/media-typer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/media-typer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/media-typer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/media-typer/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/merge-descriptors/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/merge-descriptors/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/merge-descriptors/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/merge-descriptors/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/merge-descriptors/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/methods/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/methods/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/methods/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/methods/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/methods/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/mime-db/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/mime-db/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/mime-db/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/mime-db/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/mime-db/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/mime-db/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/mime-types/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/mime-types/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/mime-types/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/mime-types/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/mime-types/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/mime/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/mime/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/mime/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/mime/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/mime/cli.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/mime/mime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/mime/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/mime/src/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/mime/src/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/mime/types.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/ms/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/ms/license.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/ms/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/ms/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/negotiator/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/negotiator/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/negotiator/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/negotiator/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/negotiator/lib/charset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/negotiator/lib/encoding.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/negotiator/lib/language.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/negotiator/lib/mediaType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/negotiator/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/object-assign/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/object-assign/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/object-assign/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/object-assign/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/on-finished/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/on-finished/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/on-finished/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/on-finished/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/on-finished/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/parseurl/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/parseurl/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/parseurl/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/parseurl/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/parseurl/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/path-to-regexp/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/path-to-regexp/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/path-to-regexp/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/path-to-regexp/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/path-to-regexp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/proxy-addr/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/proxy-addr/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/proxy-addr/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/proxy-addr/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/proxy-addr/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/qs/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/qs/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/qs/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/qs/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/qs/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/qs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/qs/dist/qs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/qs/lib/formats.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/qs/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/qs/lib/parse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/qs/lib/stringify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/qs/lib/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/qs/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/qs/test/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/qs/test/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/qs/test/parse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/qs/test/stringify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/qs/test/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/range-parser/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/range-parser/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/range-parser/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/range-parser/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/range-parser/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/raw-body/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/raw-body/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/raw-body/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/raw-body/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/raw-body/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/raw-body/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis-commands/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis-commands/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis-commands/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis-commands/commands.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis-commands/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis-commands/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis-commands/tools/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis-parser/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis-parser/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis-parser/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis-parser/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis-parser/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis-parser/lib/hiredis.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis-parser/lib/parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis-parser/lib/parserError.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis-parser/lib/redisError.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis-parser/lib/replyError.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis-parser/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis/.github/ISSUE_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis/.github/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis/lib/command.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis/lib/commands.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis/lib/createClient.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis/lib/customErrors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis/lib/debug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis/lib/extendedApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis/lib/individualCommands.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis/lib/multi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis/lib/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/redis/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/safe-buffer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/safe-buffer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/safe-buffer/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/safe-buffer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/safe-buffer/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/safer-buffer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/safer-buffer/Porting-Buffer.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/safer-buffer/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/safer-buffer/dangerous.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/safer-buffer/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/safer-buffer/safer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/safer-buffer/tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/send/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/send/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/send/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/send/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/send/node_modules/ms/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/send/node_modules/ms/license.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/send/node_modules/ms/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/send/node_modules/ms/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/send/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/serve-static/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/serve-static/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/serve-static/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/serve-static/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/serve-static/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/setprototypeof/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/setprototypeof/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/setprototypeof/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/setprototypeof/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/setprototypeof/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/setprototypeof/test/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/statuses/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/statuses/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/statuses/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/statuses/codes.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/statuses/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/statuses/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/toidentifier/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/toidentifier/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/toidentifier/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/toidentifier/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/type-is/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/type-is/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/type-is/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/type-is/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/type-is/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/unpipe/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/unpipe/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/unpipe/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/unpipe/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/unpipe/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/utils-merge/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/utils-merge/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/utils-merge/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/utils-merge/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/utils-merge/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/uuid/AUTHORS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/uuid/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/uuid/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/uuid/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/uuid/bin/uuid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/uuid/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/uuid/lib/bytesToUuid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/uuid/lib/md5-browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/uuid/lib/md5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/uuid/lib/rng-browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/uuid/lib/rng.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/uuid/lib/sha1-browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/uuid/lib/sha1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/uuid/lib/v35.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/uuid/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/uuid/v1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/uuid/v3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/uuid/v4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/uuid/v5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/vary/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/vary/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/vary/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/vary/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/node_modules/vary/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barber_server/redis-connect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis_barber/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis_barber/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis_barber/.idea/redis_barber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis_barber/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis_barber/Redis-Windows-32bit-master/3.0.504/Redis on Windows Release Notes.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis_barber/Redis-Windows-32bit-master/3.0.504/Redis on Windows.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis_barber/Redis-Windows-32bit-master/3.0.504/Windows Service Documentation.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis_barber/Redis-Windows-32bit-master/3.0.504/dump.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis_barber/Redis-Windows-32bit-master/3.0.504/readme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis_barber/Redis-Windows-32bit-master/3.0.504/redis-benchmark.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis_barber/Redis-Windows-32bit-master/3.0.504/redis-check-aof.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis_barber/Redis-Windows-32bit-master/3.0.504/redis-check-dump.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis_barber/Redis-Windows-32bit-master/3.0.504/redis-cli.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis_barber/Redis-Windows-32bit-master/3.0.504/redis-server.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis_barber/Redis-Windows-32bit-master/3.0.504/redis.windows-service.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis_barber/Redis-Windows-32bit-master/3.0.504/redis.windows.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis_barber/Redis-Windows-32bit-master/3.0.504/service-install.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis_barber/Redis-Windows-32bit-master/3.0.504/temp-10176.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis_barber/Redis-Windows-32bit-master/3.0.504/temp-10392.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis_barber/Redis-Windows-32bit-master/3.0.504/temp-10724.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis_barber/Redis-Windows-32bit-master/3.0.504/temp-13220.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis_barber/Redis-Windows-32bit-master/3.0.504/temp-13228.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis_barber/Redis-Windows-32bit-master/3.0.504/temp-6756.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis_barber/Redis-Windows-32bit-master/3.0.504/temp-7316.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis_barber/Redis-Windows-32bit-master/3.0.504/temp-7976.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis_barber/Redis-Windows-32bit-master/3.0.504/temp-8716.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis_barber/Redis-Windows-32bit-master/3.0.504/temp-9648.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis_barber/Redis-Windows-32bit-master/3.0.504/uninstall-service.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis_barber/Redis-Windows-32bit-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DATA/services_default_data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/App/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/App/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/history.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/background_white.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/barber.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/clipart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/photo_2019-11-13_22-28-31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/scissors.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/team_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/team_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/team_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/team_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/account/account.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/account/account.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/account/profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/account/service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/home/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/home/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/home/photosList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/login-registration/login-registration.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/login-registration/login-registration.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/login-registration/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/login-registration/registration.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/services/services.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/services/services.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/services/servicesBackUp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/services/servicesContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/loginReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/registrationReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/servicesReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/validateName.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>handle</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/igor-final-app/src/pages/home.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/pages/home/home.css" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/pages/home/photosComponent.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/pages/home/photosList.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/pages/home/service.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/App.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/components/header.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/utils/setupStorageServices.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/reducers/counter.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/reducer/counter.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/pages/services/servicesContainer.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/DATA/services_default_data.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/pages/services/services.css" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/pages/login-registration/login-registration.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/reducers/registration.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/reducers/login.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/reducers/services.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/reducers/logoffReducer.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/reducers/servicesReducer.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/pages/account/account.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/public/index.html" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/instance.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/package.json" />
+        <option value="$PROJECT_DIR$/functions/handlers/services.js" />
+        <option value="$PROJECT_DIR$/functions/util/config.js" />
+        <option value="$PROJECT_DIR$/functions/util/fbauth.js" />
+        <option value="$PROJECT_DIR$/functions/util/admin.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/components/App/App.css" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/pages/home/home.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/reducers/registrationReducer.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/pages/account/account.css" />
+        <option value="$PROJECT_DIR$/functions/util/validators.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/pages/login-registration/login-registration.css" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/history.js" />
+        <option value="$PROJECT_DIR$/functions/index.js" />
+        <option value="$PROJECT_DIR$/functions/handlers/users.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/pages/services/servicesBackUp.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/utils/validateName.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/actions/index.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/index.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/reducers/loginReducer.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/reducers/errorsReducer.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/reducers/index.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/localStorage.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/components/Header/header.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/pages/login-registration/login.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/pages/login-registration/registration.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/components/App/App.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/pages/account/profile.js" />
+        <option value="$PROJECT_DIR$/igor-final-app/src/pages/services/services.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/barber_server/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/barber_server/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="203" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="final_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="final_project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="final_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="final_project" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="final_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="final_project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="final_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="final_project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\study\epam_projects\final_project\igor-final-app\src\img" />
+      <recent name="C:\study\epam_projects\final_project\igor-final-app\src\pages\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\study\epam_projects\final_project" />
+      <recent name="C:\study\epam_projects\final_project\functions" />
+      <recent name="C:\study\epam_projects\final_project\igor-final-app\src\components\Header" />
+      <recent name="C:\study\epam_projects\final_project\igor-final-app\src\components\App" />
+      <recent name="C:\study\epam_projects\final_project\igor-final-app\src\components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="account.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="account.js" working-dir="$PROJECT_DIR$/igor-final-app/src/pages/account" />
+    <configuration name="start" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.account.js" />
+      <item itemvalue="npm.start" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="Node.js.account.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e54f70a8-ec6a-497e-bcc8-c37a217e7af6" name="Default" comment="" />
+      <created>1573652804071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573652804071</updated>
+      <workItem from="1573652808383" duration="22251000" />
+      <workItem from="1573676412899" duration="13000" />
+      <workItem from="1573735587533" duration="15349000" />
+      <workItem from="1573827925332" duration="4451000" />
+      <workItem from="1573898990528" duration="262000" />
+      <workItem from="1573899300666" duration="11917000" />
+      <workItem from="1573926285283" duration="4428000" />
+      <workItem from="1573982360889" duration="12006000" />
+      <workItem from="1574003673003" duration="5017000" />
+      <workItem from="1574069505056" duration="5772000" />
+      <workItem from="1574096283392" duration="31639000" />
+      <workItem from="1574239059130" duration="15069000" />
+      <workItem from="1574264442358" duration="7862000" />
+      <workItem from="1574278992823" duration="30529000" />
+      <workItem from="1574419832022" duration="16326000" />
+      <workItem from="1574436975181" duration="1255000" />
+      <workItem from="1574439756110" duration="49419000" />
+      <workItem from="1574589633877" duration="13777000" />
+      <workItem from="1574617101575" duration="45946000" />
+      <workItem from="1574698800965" duration="1668000" />
+      <workItem from="1574700564105" duration="809000" />
+      <workItem from="1574702396224" duration="1402000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="297167000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.18005952" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.32868218" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.32954547" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.737013" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TypeScript" order="5" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="6" visible="true" weight="0.32792208" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.17642753" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="TypeScript" order="5" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.38497654" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.32868218" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.3286385" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/firestore.indexes.json" />
+    <entry file="file://$PROJECT_DIR$/igor-final-app/src/instance.js" />
+    <entry file="file://$USER_HOME$/AppData/Roaming/npm/node_modules/firebase-tools/lib/emulator/functionsEmulatorRuntime.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="722" column="32" selection-start-line="722" selection-start-column="32" selection-end-line="722" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/util/fbauth.js" />
+    <entry file="file://$PROJECT_DIR$/functions/util/config.js" />
+    <entry file="file://$PROJECT_DIR$/igor-final-app/src/pages/home/home.js" />
+    <entry file="file://$PROJECT_DIR$/igor-final-app/src/components/App/App.css" />
+    <entry file="file://$PROJECT_DIR$/public/404.html" />
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igor-final-app/src/pages/account/account.css" />
+    <entry file="file://$PROJECT_DIR$/igor-final-app/src/pages/login-registration/login-registration.css" />
+    <entry file="file://$PROJECT_DIR$/functions/util/validators.js" />
+    <entry file="file://$PROJECT_DIR$/igor-final-app/src/components/App/App.js___jb_tmp___" />
+    <entry file="file://$PROJECT_DIR$/functions/package.json" />
+    <entry file="file://$PROJECT_DIR$/igor-final-app/src/history.js" />
+    <entry file="file://$PROJECT_DIR$/functions/index.js" />
+    <entry file="file://$PROJECT_DIR$/functions/util/admin.js" />
+    <entry file="file://$PROJECT_DIR$/functions/handlers/users.js" />
+    <entry file="file://$PROJECT_DIR$/functions/handlers/services.js" />
+    <entry file="file://$PROJECT_DIR$/igor-final-app/src/pages/services/servicesBackUp.js" />
+    <entry file="file://$PROJECT_DIR$/igor-final-app/src/utils/validateName.js" />
+    <entry file="file://$PROJECT_DIR$/igor-final-app/src/reducers/servicesReducer.js" />
+    <entry file="file://$PROJECT_DIR$/igor-final-app/src/actions/index.js" />
+    <entry file="file://$PROJECT_DIR$/igor-final-app/src/pages/login-registration/login-registration.js" />
+    <entry file="file://$PROJECT_DIR$/igor-final-app/src/reducers/registrationReducer.js" />
+    <entry file="file://$PROJECT_DIR$/igor-final-app/src/index.js" />
+    <entry file="file://$PROJECT_DIR$/igor-final-app/src/reducers/errorsReducer.js" />
+    <entry file="file://$PROJECT_DIR$/igor-final-app/src/localStorage.js" />
+    <entry file="file://$PROJECT_DIR$/igor-final-app/src/utils/setupStorageServices.js" />
+    <entry file="file://$PROJECT_DIR$/igor-final-app/src/reducers/index.js" />
+    <entry file="file://$PROJECT_DIR$/igor-final-app/src/components/Header/header.js" />
+    <entry file="file://$PROJECT_DIR$/igor-final-app/src/pages/account/service.js" />
+    <entry file="file://$PROJECT_DIR$/igor-final-app/src/pages/login-registration/login.js" />
+    <entry file="file://$PROJECT_DIR$/igor-final-app/src/reducers/loginReducer.js" />
+    <entry file="file://$PROJECT_DIR$/igor-final-app/src/pages/account/account.js" />
+    <entry file="file://$PROJECT_DIR$/igor-final-app/src/pages/login-registration/registration.js" />
+    <entry file="file://$PROJECT_DIR$/igor-final-app/src/pages/account/profile.js" />
+    <entry file="file://$PROJECT_DIR$/igor-final-app/src/pages/services/services.js" />
+    <entry file="file://$PROJECT_DIR$/igor-final-app/src/components/App/App.js" />
+    <entry file="file://$PROJECT_DIR$/database.rules.json" />
+    <entry file="file://$PROJECT_DIR$/storage.rules" />
+    <entry file="file://$PROJECT_DIR$/firestore.rules" />
+    <entry file="file://$PROJECT_DIR$/igor-final-app/package-lock.json" />
+    <entry file="file://$PROJECT_DIR$/gitignore" />
+    <entry file="file://$PROJECT_DIR$/node_modules/grpc/node_modules/npm-packlist/index.js" />
+    <entry file="file://$PROJECT_DIR$/igor-final-app/README.md" />
+    <entry file="file://$PROJECT_DIR$/igor-final-app/package.json" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

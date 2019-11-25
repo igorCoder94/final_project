@@ -1,0 +1,12 @@
+#head-account {
+    background-image: url('../../img/background_white.jpg');
+    background-attachment: fixed;
+    background-size: 100%;
+    color: black;
+    margin: 0;
+    padding: 24px;
+}
+
+.field-account {
+    width: 300px;
+}

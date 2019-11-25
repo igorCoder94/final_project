@@ -1,0 +1,29 @@
+.services {
+    padding: 48px;
+    background-image: url('../../img/background.jpg');
+    background-size: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.button-service {
+    border-radius: 8px;
+    height: 20px;
+    background-color: lightgray;
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+.button-service:hover {
+    box-shadow: 0 0 10px 5px rgba(221, 221, 221, 1);
+    background-color: white;
+}
+
+#head-services {
+    background-image: url('../../img/background_white.jpg');
+    background-size: 100%;
+    background-attachment: fixed;
+    color: black;
+    margin: 0;
+    padding: 24px;
+}
